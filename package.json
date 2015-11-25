@@ -1,0 +1,41 @@
+{
+  "name": "ios-safe-audio-context",
+  "version": "1.0.0",
+  "description": "create a WebAudio context that works in iOS and everywhere else",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "web",
+    "audio",
+    "context",
+    "hack",
+    "ios",
+    "sampleRate",
+    "bug",
+    "44100",
+    "fix",
+    "workaround",
+    "issue",
+    "webaudio",
+    "iphone",
+    "ipad"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/ios-safe-audio-context.git"
+  },
+  "homepage": "https://github.com/Jam3/ios-safe-audio-context",
+  "bugs": {
+    "url": "https://github.com/Jam3/ios-safe-audio-context/issues"
+  }
+}
