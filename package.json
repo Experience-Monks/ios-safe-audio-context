@@ -1,6 +1,6 @@
 {
   "name": "ios-safe-audio-context",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "create a WebAudio context that works in iOS and everywhere else",
   "main": "index.js",
   "license": "MIT",
