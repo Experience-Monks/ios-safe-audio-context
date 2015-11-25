@@ -18,6 +18,8 @@ function createAudioContext (desiredSampleRate) {
     dummy.connect(context.destination)
     dummy.start(0)
     dummy.disconnect()
+    
+    context.close() // dispose old context
     context = new AudioCtor()
   }
 
